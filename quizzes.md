@@ -7,8 +7,6 @@ nav_order: 9
 
 ### Quizzes 
 
-There will be approx. 10-11 quizzes quizzes this semester.  The quizzes are a combination of multiple-choice and short-answer questions that test the knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week. You’ll take the quizzes remotely from your room. 
-
 The quizzes along with their due dates will be released in Canvas. 
 
 
