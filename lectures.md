@@ -130,7 +130,7 @@ __Resources:__
   * __Notes:__ (no new topics this week)
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
-  * __Assignment:__  
+ 
  
  ***
  
