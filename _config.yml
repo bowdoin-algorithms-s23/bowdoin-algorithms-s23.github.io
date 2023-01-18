@@ -16,10 +16,10 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "Algorithms, Fall22, Bowdoin College"
+title: "Algorithms, Spring23, Bowdoin College"
 remote_theme: pmarsceill/just-the-docs
 
-description: Website for  Algorithms (csci2200), Fall 2022,  Bowdoin College
+description: Website for  Algorithms (csci2200), Spring 2023,  Bowdoin College
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bowdoin-algorithms-f22.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -71,11 +71,11 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Canvas":
-    - "https://bowdoin.instructure.com/courses/2303"
+    - "https://bowdoin.instructure.com/courses/3160"
   "Gradescope":
-    - "https://www.gradescope.com"
+    - "https://www.gradescope.com/courses/495598"
   "Slack": 
-    - "https://slack.com"
+    - "https://algorithms-spring2023.slack.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
