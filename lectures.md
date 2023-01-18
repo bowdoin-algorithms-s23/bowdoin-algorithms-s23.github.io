@@ -7,20 +7,20 @@ nav_order: 6
 
 ### Detailed schedule (Spring 2023)
 
-### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
+### Week 1: Warmup (bubble sort, insertion sort, selection sort) and asymptotic analysis.
 
 _Jan 23-27_
 
-We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if not, you'll need to budget more time this first week). 
+We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are  familiar with most of this content from Data Structures. 
 
 __Objectives:__ 
   * Understand searching (linear search, binary search) and simple sorting (bubble sort, selection sort, insertion sort) and be able to compare them, analyze them and apply  them to various inputs
   * Understand the basics of algorithm analysis, big-Oh notation,  best-case and worst-case analysis
 
 __Resources:__     
-  * __Lecture:__ [LN-warmup.pdf](docs/week1-LN-warmup.pdf)     
-  *  __Lab:__   [Lab 1](docs/lab1.pdf)
-  * __Assignment:__ Week1 quiz in Canvas, [Assignment1](docs/hw1.pdf) in Gradescope
+  * __Notes:__ [LN-warmup.pdf](docs/LN-warmup.pdf)     
+  *  __Lab:__   [Lab 1](docs/lab1.pdf), [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb)
+  * __Assignment:__ Quiz1 in Canvas, [Assignment1](docs/hw1.pdf) in Gradescope
   
  ***
  
@@ -48,15 +48,12 @@ __Objectives:__
 
 
 __Resources:__    
-  * __Lecture:__ [LN-asymptoticNotation.pdf](docs/week2-LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/week2-LN-summations.pdf), [quiz2-practice.pdf](docs/week2-quiz-practice.pdf)
+  * __Notes:__ [LN-asymptoticNotation.pdf](docs/LN-asymptoticNotation.pdf),  [LN-summations.pdf](docs/LN-summations.pdf), [quiz2-practice.pdf](docs/quiz2-practice.pdf)
   * __Lab:__   [Lab2](docs/lab2.pdf) 
-  * __Assignment:__   Week2 quiz in Canvas, [Assignment 2](docs/hw2.pdf) in Gradescope
+  * __Assignment:__   Quiz2 in Canvas, [Assignment 2](docs/hw2.pdf) in Gradescope
   
 ***
-   
-   
-   
-   
+      
    
 ### Week 3: Mergesort and Recurrences
 _Feb 6-10_
@@ -70,9 +67,9 @@ __Objectives:__
 * Recognize broadly classes of recurrences ( logarithmic, linear, Θ(n lg n), exponential)
 
 __Resources:__    
-  * __Lecture:__ [LN-recurrences.pdf](docs/week3-LN-recurrences.pdf), [quiz3-practice.pdf](docs/week3-quiz-practice.pdf)
+  * __Notes:__ [LN-recurrences.pdf](docs/LN-recurrences.pdf), [quiz3-practice.pdf](docs/quiz3-practice.pdf)
    * __Lab:__   [Lab3](docs/lab3.pdf) 
-  * __Assignment:__ Week3 quiz in Canvas, [Assignment 3](docs/hw3.pdf) in Gradescope
+  * __Assignment:__ Quiz3 in Canvas, [Assignment 3](docs/hw3.pdf) in Gradescope
    
  ***
 
@@ -91,9 +88,9 @@ __Objectives:__
 
 
 __Resources:__     
-* __Lecture notes:__ [LN-heapsort.pdf](docs/week4-LN-heapsort.pdf), [LN-quicksort.pdf](docs/week4-LN-quicksort.pdf),  [slides-heaps.pdf](docs/week4-slides-heaps.pdf) ; [slides-quicksort.pdf](docs/week4-slides-quicksort.pdf)
+* __Notes:__ [LN-heapsort.pdf](docs/LN-heapsort.pdf), [LN-quicksort.pdf](docs/LN-quicksort.pdf),  [slides-heaps.pdf](docs/slides-heaps.pdf) ; [slides-quicksort.pdf](docs/slides-quicksort.pdf)
 * __Lab:__   [Lab4](docs/lab4.pdf)   
-* __Assignment:__ Week4 quiz in Canvas, [Assignment 4](docs/hw4.pdf) in  Gradescope
+* __Assignment:__ Quiz4 in Canvas, [Assignment 4](docs/hw4.pdf) in  Gradescope
 
  ***
   
@@ -112,9 +109,9 @@ __Objectives:__
 * Understand the selection problem and the algorithms for it (quick-select and smart-select)
 
 __Resources:__     
-  * __Lecture notes:__ [LN-linsort.pdf](docs/week5-LN-linsort.pdf), [LN-selection.pdf](docs/week5-LN-selection.pdf)
- * __Lab:__  [Lab5](docs/lab5.pdf),  [python-warmup.ipynb](docs/python-warmup.ipynb), [python-insertionSort.ipynb](docs/python-insertionSort.ipynb), [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](docs/python-quicksort.ipynb)
- * __Assignment:__  Week5 quiz in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
+  * __Notes:__ [LN-linsort.pdf](docs/LN-linsort.pdf), [LN-selection.pdf](docs/LN-selection.pdf)
+ * __Lab:__  [Lab5](docs/lab5.pdf),  [python-mergeSort.ipynb](docs/python-mergesort.ipynb), [python-quickSort.ipynb](docs/python-quicksort.ipynb)
+ * __Assignment:__  Quiz5 in Canvas, [Assignment 5](docs/hw5.pdf) in Gradescope
  *          
  ***
 
@@ -124,14 +121,13 @@ __Resources:__
 _Feb 27-March 3_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
-
 __Objectives:__ This week's objective is algorithmic problem solving.  
 * You work on  new problems that require using the algorithms learnt so far in new ways
 * You understand that algorithmic problem solving is both a science and an art 
-* You love this class
+
 
 __Resources:__
-  * __Lecture notes:__ (no new topics this week)
+  * __Notes:__ (no new topics this week)
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
   * __Assignment:__  
@@ -151,7 +147,7 @@ __Objectives:__
 * Apply D&C to new problems
 
 __Resources:__
-  * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
+  * __Notes:__ [LN-divideAndConquer.pdf](docs/LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
   * __Assignment:__  [Assignment 7](docs/hw7.pdf) in Gradescope
          
@@ -172,9 +168,9 @@ __Objectives:__
 * Apply DP to new problems 
 
 __Resources:__
-* __Lecture notes:__ [LN-dynprog.pdf](docs/week8-LN-dynprog.pdf), [LN-rod.pdf](docs/week8-LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
+* __Lecture notes:__ [LN-dynprog.pdf](docs/LN-dynprog.pdf), [LN-rod.pdf](docs/LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
  * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-RodCutting.ipynb)
-* __Assignment:__  (no quiz this week);   [Assignment 8](docs/hw8.pdf) in Gradescope
+* __Assignment:__    [Assignment 8](docs/hw8.pdf) in Gradescope
    
   
  ***
@@ -192,9 +188,9 @@ __Objectives:__
 * Understand the greedy solution for the example in the lecture  (activity selection), including the correctness justification 
 
 __Resources:__
-* __Lecture notes:__ [LN-knapsack.pdf](docs/week9-LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/week9-LN-greedy.pdf)
+* __Lecture notes:__ [LN-knapsack.pdf](docs/LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Assignment:__ Quiz in Canvas, [Assignment 9](docs/hw9.pdf) in Canvas
+* __Assignment:__ Quiz6 in Canvas, [Assignment 9](docs/hw9.pdf) in Canvas
    
  ***
 
@@ -213,7 +209,7 @@ __Objectives:__
 
 
 __Resources:__
-* __Lecture notes:__ [LN-lcs.pdf](docs/week10-LN-lcs.pdf) ; [LN-review.pdf](docs/week10-LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
+* __Lecture notes:__ [LN-lcs.pdf](docs/LN-lcs.pdf) ; [LN-review.pdf](docs/LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
 * __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
 
@@ -237,7 +233,7 @@ __Objectives:__
 * Understand breadth-first and depth-first traversals, their complexity,  and their properties 
 
 __Resources:__
-* __Lecture notes:__ [LN-graphBasics.pdf](docs/week11-LN-basics.pdf), [LN-bfsdfs.pdf](docs/week11-LN-bfsdfs.pdf)
+* __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
 *  Exam 2 in class
 * __Assignment:__  [Assignment 11](docs/hw11.pdf) in Gradescope
@@ -261,7 +257,7 @@ __Objectives:__
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-* __Lecture notes:  [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf), [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), 
+* __Lecture notes:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
 * __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
 * __Assignment:__ Quiz in Canvas, [Assignment 12](docs/hw12.pdf) and  [Assignment 13](docs/hw13.pdf) in Gradescope
   
@@ -278,7 +274,7 @@ A quick review and work on some extra fun problems!
 
 
 __Resources:__
-* __Notes:__  [LN-review.pdf](docs/week14-LN-review.pdf)
+* __Notes:__  [LN-review.pdf](docs/LN-review.pdf)
 * __Lab:__   [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
 
                       
