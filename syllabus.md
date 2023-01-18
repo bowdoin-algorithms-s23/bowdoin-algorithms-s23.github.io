@@ -37,22 +37,20 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 
   
 
-**Weekly flow:**
+**Lectures, labs and weekly flow:**
 The class meets three times a week (2 x class meetings plus the weekly lab). Each week we'll focus on a topic (or a couple of topics).  Roughly speaking, the class meetings are dedicated to going over the new content and the  lab is for working on problems.  The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all the problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
 
 Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
 Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  
        
+
+  
+**Work and Grading Policy:** 
 In the first weeks of the semester while learning analysis tools, I have created a set of weekly quizzes to support the learning. The quizzes are available on Canvas, and you'll take them remotely.  They are self-graded.
-       
+
 In addition to the problems discussed in the lectures and labs, there will be problem sets/assignments, approximately weekly. 
  
-  
-**Grading Policy:** 
-
-The work for the class throughout the semester consists of:  
-
 - __Quizzes: 20%__ There will be a total of 8 online quizzes which test  fundamental  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
 
 - __Assignments: 40%__ There will be a total of 10-12 assignments throughout the semester, roughly one per week. The assignments consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments is to develop good algorithmic writing style --- your solutions  need to look professional, neat, easy to understand, explained, justified and analyzed.   All assignments are weighed equally. 
