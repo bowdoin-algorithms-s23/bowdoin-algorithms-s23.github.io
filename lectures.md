@@ -32,7 +32,7 @@ _Jan 30- Feb 3_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
-The next two weeks introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give a formal definition of each one and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up often: arithmetic and geometric summations. 
+Over the next two weeks introduce the tools for algorithms analysis.  Asymptotic analysis is expressed with O(), Ω() and Θ() notation. We give  formal definitions and discuss the differences between them and why big-oh is not sufficient.  We introduce the two summations that come up often: arithmetic and geometric summations. 
 
 This part of the class is heavy on discrete math like logarithms, exponents, limits and recursive functions, which most of you have not seen in a long time.  The bright side is that there are formulas and rules for everything and it's just a matter of practice.  Give yourself time to practice and expect it will take time.   
 
@@ -101,7 +101,7 @@ _Feb 20-24_
 
 We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
 
-The second topic this week is the __selection__ problem:  Given a set S of n elements, {x_1, x_2, ..., x_n} and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
+The second topic this week is the __selection__ problem:  Given a set S of n elements and an integer k (1 ≤ k ≤ n), find the kth smallest element in S. We describe several ideas for solving this problem, culminating with an elegant and ingenious algorithm that runs in O(n) worst-case.
 
 __Objectives:__ 
 * Understand the comparison-based sorting lower bound, when it applies and what assumptions it makes
@@ -137,7 +137,7 @@ __Resources:__
 ### Week 7: Divide-and-conquer
 _March 6-10_
 
-What do you do when you want to solve a problem and you don't know where to start?  Coming up with new algorithms is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
+What do you do when you want to solve a problem and you don't know where to start? Although there are no recipes, there are some techniques that come up frequently.  We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
 The first technique is __divide-and-conquer__, which solves a problem by dividing the problem into  smaller subproblems and solving them recursively.  You already saw it  at work in Mergesort. This week you'll see more examples of problems that can be  solved via divide-and-conquer, including Karatsuba's integer multiplication and  Strassen's matrix multiplication algorithms. 
 
@@ -180,7 +180,7 @@ __Resources:__
 ### Week 9: More DP examples and the Greedy technique 
 _April 3-7_
 
-We add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
+We add more dynamic programming examples and we introduce the greedy technique via the _activity selection_ problem. 
 
 __Objectives:__ 
 * Understand the DP solution for the knapsack problem 
@@ -212,6 +212,7 @@ __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/LN-lcs.pdf) ; [LN-review.pdf](docs/LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
 * __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
+* Exam 2 in class
 
 ***
 
@@ -220,17 +221,15 @@ __Resources:__
 ### Week 11: Graphs: Basics, BFS and DFS and their applications.  Topological order.
 _April 17-21_
 
-Once you learn about graphs, you start to see their applications  everywhere. This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  
+Once you learn about graphs, you start to see their applications  everywhere. This week we start with basic terminology and the traversals, breadth-first and depth-first, which are the stepping stone to many  other problems. We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  
 
-__Objectives:__ 
-* Understand  the concept of topological order and the two algorithms for computing a topological order 
-* Use topological order to compute shortest paths on DAGs
 
 __Objectives:__ 
 * Compare and contrast the adjacency list and adjacency matrix representation of a graph 
 * Compare and contrast different types of graph: sparse, complete, dense, trees
 * Understand basic graph problems:  path, connectivity, connected components, reachability
 * Understand breadth-first and depth-first traversals, their complexity,  and their properties 
+* Understand  the concept of topological order and the two algorithms for computing a topological order 
 
 __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf)
@@ -259,7 +258,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
 * __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
-* __Assignment:__ Quiz in Canvas, [Assignment 12](docs/hw12.pdf) and  [Assignment 13](docs/hw13.pdf) in Gradescope
+* __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 12](docs/hw12.pdf) and  [Assignment 13](docs/hw13.pdf) in Gradescope
   
  ***
  
