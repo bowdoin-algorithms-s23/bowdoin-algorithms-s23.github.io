@@ -13,6 +13,6 @@ This Github site hosts all _public_ resources for the class, such as syllabus, l
 
 * __Gradescope__:  You'll use Gradescope for assignments. Gradescope helps streamline the process of submission, grading and returning feedback, and it is also useful for implementing practices like anonymous grading.
 
-* __Slack__: Class communication will be entirely on Slack. You will need to monitor Slack for class updates, including possible cancellations and location changes (in case there are any). You can contact me and any of the LAs by private messaging on Slack. 
+* __Slack__: Class communication will be entirely on Slack. You will need to monitor Slack for class updates, including possible cancellations or delays (in case there are any). 
 
 The link/code to join Gradescope/Slack are posted on Canvas. 
