@@ -12,7 +12,8 @@ nav_order: 4
 We have a wonderful group of LAs who will support the weekly labs, hold office hours/study groups and help with grading.  
  
 - Danielle Simon	(L)
-- Vincent Han	(GG), John Soeder	(L)
+- Vincent Han	(GG)
+- John Soeder	(L)
 - Alex Racape	(L)
 - Kaylie Harlin	(L)
 - Luke Tingley	(LG)
