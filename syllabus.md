@@ -38,11 +38,9 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
   
 
 **Lectures, labs and weekly flow:**
-The class meets three times a week (2 x class plus  weekly lab).  Roughly speaking, the class meetings are dedicated to understanding fundamental algorithms and techniques,  and the  lab is for working on problems.  The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all the problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.   
+The class meets three times a week (2 x class plus  weekly lab). Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  This will make the meetings more effective.  Roughly speaking, the class meetings are dedicated to understanding fundamental algorithms and techniques,  and the lab is for working on problems.  The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all the problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.    Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
-Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
-Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  
        
 
   
