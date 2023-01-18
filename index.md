@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-## Hi everyone, Welcome to Algorithms! 
+## Welcome to Algorithms, spring 2023! 
 
 This Github site hosts all _public_ resources for the class, such as syllabus, lecture notes, policies, etc.  In addition we'll use: 
 
