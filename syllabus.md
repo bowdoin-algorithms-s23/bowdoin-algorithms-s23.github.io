@@ -52,7 +52,7 @@ The class meets three times a week (2 x class plus  weekly lab). Each week, _bef
 
 - __Exams: 40%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Polaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 13.3%).
 
-__Class engagement:__ This means attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work. Overall engagement will be used as a tie breaker when your score is between two grades.  
+- __Class engagement:__ This means attending class, working with your group in the lab, asking questions, engaging in discussions, volunteering answers,  participating on Slack, attending office hours and striving to turn in good work. Overall engagement will be used as a tie breaker when your score is between two grades.  
 
 
 
