@@ -14,13 +14,13 @@ __Class time:__  TR 10:05-11:30, lab Fri 11:40-1:05
 
 __Classroom:__  classes in Searles 126, labs in VAC North 304
 
+**Prerequisites:** csci 2101 (Data Structures)
+
 
 Algorithms are the backbone of computer science. Everywhere computer sciences reaches, there is an algorithm.  This class is an introduction to critical thinking and problem solving through the design and analysis of algorithms.   Throughout the course we will consider fundamental computational problems and their algorithmic solutions. We'll illustrate the process of coming up with algorithms, analysing their theoretical complexity, and arguing that they  work correctly. Overall the class will show that the "...subject of algorithms represents a powerful lens through which to view the field of computer science in general" [Kleinberg & Tardos]
 
-**Prerequisites:** csci 2101 (Data Structures)
 
-**Learning goals**
-After taking this class you will be able to: 
+**Learning goals:** After taking this class you will be able to: 
 
   1. Demonstrate understanding of fundamental computational problems and the algorithms proposed to solve them
       1. Illustrate how these algorithms work
