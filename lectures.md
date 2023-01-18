@@ -149,7 +149,7 @@ __Objectives:__
 __Resources:__
   * __Notes:__ [LN-divideAndConquer.pdf](docs/LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Assignment:__  [Assignment 7](docs/hw7.pdf) in Gradescope
+  * __Assignment:__  [Assignment 6](docs/hw6.pdf) in Gradescope
          
  ***
  
@@ -170,7 +170,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-dynprog.pdf](docs/LN-dynprog.pdf), [LN-rod.pdf](docs/LN-rod.pdf), [rod-summary.pdf](docs/summary-rod.pdf)
  * __Lab:__   [Lab8](docs/lab8.pdf) , [Fibonacci.ipynb](docs/python-Fibonacci.ipynb), [rodcutting.ipynb](docs/python-RodCutting.ipynb)
-* __Assignment:__    [Assignment 8](docs/hw8.pdf) in Gradescope
+* __Assignment:__    [Assignment 7](docs/hw7.pdf) in Gradescope
    
   
  ***
@@ -190,7 +190,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-knapsack.pdf](docs/LN-knapsack.pdf), [knapsack-summary.pdf](docs/summary-knapsack.pdf), [LN-greedy.pdf](docs/LN-greedy.pdf)
 * __Lab:__   [Lab9](docs/lab9.pdf) 
-* __Assignment:__ Quiz6 in Canvas, [Assignment 9](docs/hw9.pdf) in Canvas
+* __Assignment:__ Quiz6 in Canvas, [Assignment 8](docs/hw8.pdf) in Canvas
    
  ***
 
@@ -211,7 +211,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:__ [LN-lcs.pdf](docs/LN-lcs.pdf) ; [LN-review.pdf](docs/LN-review.pdf) ; [lcs.ipynb](docs/python-LCS.ipynb) ; [summary-lcs.pdf](docs/summary-lcs.pdf)
 * __Lab:__   [Lab10](docs/lab10.pdf) 
-* __Assignment:__ [Assignment 10](docs/hw10.pdf) in Gradescope 
+* __Assignment:__ [Assignment 9](docs/hw9.pdf) in Gradescope 
 * Exam 2 in class
 
 ***
@@ -235,7 +235,7 @@ __Resources:__
 * __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf)
 * __Lab:__   [Lab11](docs/lab11.pdf) 
 *  Exam 2 in class
-* __Assignment:__  [Assignment 11](docs/hw11.pdf) in Gradescope
+* __Assignment:__  [Assignment 10](docs/hw10.pdf) in Gradescope
 
 ***
  
@@ -258,7 +258,7 @@ __Objectives:__
 __Resources:__
 * __Lecture notes:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
 * __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
-* __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 12](docs/hw12.pdf) and  [Assignment 13](docs/hw13.pdf) in Gradescope
+* __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 11](docs/hw11.pdf) and  [Assignment 12](docs/hw12.pdf) in Gradescope
   
  ***
  
