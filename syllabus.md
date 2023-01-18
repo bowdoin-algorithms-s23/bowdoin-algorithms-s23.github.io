@@ -22,7 +22,6 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 Practically speaking, we'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search, big-oh,  best cases and worst cases. While diving deeper into analysis we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, expect to spend more time the first weeks of classes.  
 
 ### Learning goals 
-
 After taking this class you will be able to: 
 
   1. Demonstrate understanding of fundamental computational problems and the algorithms proposed to solve them
@@ -38,6 +37,7 @@ After taking this class you will be able to:
   
 
 
+  
 
 ### Weekly flow
 
@@ -45,31 +45,20 @@ The class meets three times a week (2 x class meetings plus the weekly lab). Eac
 
 Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
 
-Here's the weekly flow:
-
-  1. **Pre-view the lecture notes.**    Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  
-           
-  2. **Attend classes and the lab.** Come to class,  understand the details, get your questions answered and work with your peers. 
-  
-  3.  **Complete the (weekly) assignment**. Work alone or with your partner to complete the (weekly) assignment.  Drop in to one or more of the study groups/office hours to check on your ideas and get your questions answered.  
- 
+Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  
+       
 In the first weeks of the semester while learning analysis tools, I have created a set of weekly quizzes to support the learning. The quizzes are available on Canvas, and you'll take them remotely.  They are self-graded.
-
-  
-  
-### Time Commitment
-This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  The actual time you spend on the class will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours. You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.
-
-Some of you will put in more or less time than suggested above.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, you neeed to work on the challenge problems provided with each lab. 
-
+       
+In addition to the problems discussed in the lectures and labs, there will be problem sets/assignments, approximately weekly. 
+ 
   
 ### Grading Policy 
 
 The work for the class throughout the semester consists of:  
 
-- __Quizzes: 20%__ There will be a total of 8 online quizzes. The quizzes are administered at this time via Canvas  and  test  fundamental  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
+- __Quizzes: 20%__ There will be a total of 8 online quizzes which test  fundamental  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
 
-- __Assignments: 40%__ There are a total of 10-12 assignments throughout the semester, roughly one per week. The assignments consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments is to develop good algorithmic writing style --- your solutions  need to look professional, neat, easy to understand, explained, justified and analyzed.   All assignments are weighed equally. 
+- __Assignments: 40%__ There will be a total of 10-12 assignments throughout the semester, roughly one per week. The assignments consist of new problems, for which you'll have to come up with efficient solutions. An important  goal of the assignments is to develop good algorithmic writing style --- your solutions  need to look professional, neat, easy to understand, explained, justified and analyzed.   All assignments are weighed equally. 
 
 - __Exams: 40%__ There will be 3 in-class exams: the first one in in week 6, the second one in week 10 and the last one at the end of the semester (check Polaris for the final exam slot for this class).  The exams are non-cumulative, to the extent that it's possible. All exams weighed equally (i.e. each exam 13.3%).
 
@@ -77,6 +66,11 @@ __Class engagement:__ This means attending class, working with your group in the
 
 
 
+
+### Time Commitment
+This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  The actual time you spend on the class will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours. You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.
+
+Some of you will put in more or less time than suggested. That is normal.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, you neeed to work on the challenge problems provided with each lab. 
 
 
 ### What you can expect from me: 
