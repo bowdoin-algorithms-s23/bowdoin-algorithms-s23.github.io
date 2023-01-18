@@ -93,7 +93,7 @@ Here are some suggestions for doing well :
 * Go to the study groups/office hours and talk to myself and the TAs; Listen to your peers' questions and get your questions answered.
 Solve all problems that are assigned, even those that are optional.
 
-* If you are Math-CS double major, check out the lecture notes or a textbook for proofs. Many correctness justifications rely on induction, so if you've seen that, use this opportunity to come up with those proofs (we'll skipped them in class)
+* If you are Math-CS double major, you probably wish the class was more rigorous. Check out the lecture notes or a textbook for proofs. Many correctness justifications rely on induction, so if you've seen that, use this opportunity to come up with those proofs yourself (we'll skip them in class)
 
 * Don't be harsh on yourself if you are not doing as well as you expected. It takes time to learn, and often we learn (more) from mistakes! 
 
