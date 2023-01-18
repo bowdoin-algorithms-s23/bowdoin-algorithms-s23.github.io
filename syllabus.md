@@ -47,9 +47,7 @@ Each week, _before coming to class_,  read  the lecture notes for that week. It 
 
   
 **Work and Grading Policy:** 
-In the first weeks of the semester while learning analysis tools, I have created a set of weekly quizzes to support the learning. The quizzes are available on Canvas, and you'll take them remotely.  They are self-graded.
-
-In addition to the problems discussed in the lectures and labs, there will be problem sets/assignments, approximately weekly. 
+In the first weeks of the semester while learning analysis tools, I have created a set of weekly quizzes to support the learning. The quizzes are available on Canvas, and you'll take them remotely.  They are self-graded. In addition to the problems discussed in the lectures and labs, there will be problem sets/assignments, approximately weekly. 
  
 - __Quizzes: 20%__ There will be a total of 8 online quizzes which test  fundamental  knowledge from lectures and labs. Expect them to be short and focused on the specific topic discussed that week.  You'll take the quizzes remotely from your room.  All quizzes are weighed equally (although the number of questions in each will be different).
 
