@@ -19,7 +19,7 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 
 **Prerequisites:** csci 2101 (Data Structures)
 
-### Learning goals 
+**Learning goals**
 After taking this class you will be able to: 
 
   1. Demonstrate understanding of fundamental computational problems and the algorithms proposed to solve them
