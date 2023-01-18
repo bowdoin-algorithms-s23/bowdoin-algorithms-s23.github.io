@@ -5,11 +5,11 @@ nav_order: 6
 ---
 
 
-### Detailed schedule (Fall 2022)
+### Detailed schedule (Spring 2023)
 
 ### Week 1: Introduction and warmup (bubble sort, insertion sort, selection sort). Asymptotic analysis basics.
 
-_Aug 31, Sep 1_
+_Jan 23-27_
 
 We start by reviewing two fundamental problems---searching and sorting---and going over a couple of simple algorithms. We also review the basics of algorithms analysis using big-oh notation, as well as best-cases and worst-cases.  You are probably familiar with most of this content from Data Structures (if not, you'll need to budget more time this first week). 
 
@@ -28,7 +28,7 @@ __Resources:__
  
 ### Week 2: Asymptotic Notation and Summations
 
-_Sep 5- 9_
+_Jan 30- Feb 3_
 
 Joke: An infinite number of computer scientists walk into a bar. The first one orders a beer. The second one, half a beer. The third one, a quarter. The barman pours two beers. The computer scientists complain: Is that all you're giving us? The barman says: "Come on guys, you should know your limits! "
 
@@ -59,7 +59,7 @@ __Resources:__
    
    
 ### Week 3: Mergesort and Recurrences
-_Sep 12-16_
+_Feb 6-10_
 
 We continue with analysis and introduce  the "recurrence" to express the running time of recursive algorithms. To motivate the first recurrence we introduce a new sorting algorithm called Mergesort.  Mergesort is the first algorithm we see in this class which beats the quadratic bound. 
 
@@ -79,7 +79,7 @@ __Resources:__
 
 
 ### Week 4: Heapsort and Quicksort
-_Sep 19-23_
+_Feb 13-17_
 
 So far we discussed the tools necessary for analyzing algorithms (asymptotic notation, summations and recurrences) and we have seen a couple of sorting algorithms at work. This week we introduce new sorting algorithms: Heapsort, Quicksort, and it's randomized version, Randomized-Quicksort.  Randomized-Quicksort is considered the most efficient general-purpose sort in practice.
 
@@ -100,7 +100,7 @@ __Resources:__
   
   
 ### Week 5: Sorting lower bound. Faster sorting. Selection. 
-_Sep 26-30_
+_Feb 20-24_
 
 We have seen the most important  sorting algorithms  and all of them have worst-case running times at least Ω(n lg n). The natural question is: Can a sorting algorithm do better than Θ(n lg n) in the worst-case? We introduce the concept of lower bound and show a lower bound for sorting in the comparison model of computation of Ω(n lg n). We describe a couple of different ways to sort (bucket sort and counting sort) which do not use the comparison model  and under certain assumptions run in linear time. 
 
@@ -121,7 +121,7 @@ __Resources:__
 
 
 ### Week 6: Problems and FLEX time 
-_Oct 3-7_
+_Feb 27-March 3_
 
 At this point  in the class   (1) you have the tools to analyze algorithms and start to appreciate the interplay between analysis and design (what we mean by this is that analyzing your ideas gives you further ideas for how to improve on your  ideas) and (2) you have seen some fundamental algorithms and building blocks---sorting, priority queues and selection.   This week we'll work on new problems and start talking about techniques.   
 
@@ -134,20 +134,12 @@ __Resources:__
   * __Lecture notes:__ (no new topics this week)
   * __Lab:__   [Lab6](docs/lab6.pdf) 
   *   Exam1 in class
-  * __Assignment:__  none this week in view of Fall break 
-  <!-- 
-[Assignment 6](docs/hw6.pdf) in Gradescope
-    -->
- 
- ***
- 
- 
-### Fall break!
+  * __Assignment:__  
  
  ***
  
 ### Week 7: Divide-and-conquer
-_Oct  12-14_
+_March 6-10_
 
 What do you do when you want to solve a problem and you don't know where to start?  Coming up with new algorithms is both an art and a science, and although there are no recipes, there are some techniques that come up frequently.  We'll spend the next three weeks looking at more problems,  grouped by the technique used to solve them. 
 
@@ -161,14 +153,16 @@ __Objectives:__
 __Resources:__
   * __Lecture notes:__ [LN-divideAndConquer.pdf](docs/week7-LN-divideAndConquer.pdf)
    * __Lab:__   [Lab7](docs/lab7.pdf)
-  * __Assignment:__ (no quiz this week);  [Assignment 7](docs/hw7.pdf) in Gradescope
+  * __Assignment:__  [Assignment 7](docs/hw7.pdf) in Gradescope
          
  ***
  
+ ### SPRING BREAK
 
+***
 
 ### Week 8: Dynamic Programming 
-_Oct 17-21_
+_March 27-31_
 
 We introduce the technique called _dynamic programming_ which can be used for optimization problems (problems where we have to find the best  way to do something) that have optimal sub-structure (an optimal solution to a problem contains within it optimal solutions to sub-problems). 
 
@@ -188,7 +182,7 @@ __Resources:__
  
  
 ### Week 9: More DP examples and the Greedy technique 
-_Oct 24-28_
+_April 3-7_
 
 We add more ddynamic programming examples, and we introduce the greedy technique via the _activity selection_ problem. 
 
@@ -208,7 +202,7 @@ __Resources:__
 
 
 ### Week 10: More DP and FLEX time
-_Oct 31-Nov 4_
+_April 10-14_
 
 We wrap up the module on algorithmic techniques ---divide and conquer, dynamic programming, and greedy---by seeing more examples. 
 
@@ -227,10 +221,14 @@ __Resources:__
 
 
 
-### Week 11: Graphs: Basics, BFS and DFS
-_Nov 7-11_
+### Week 11: Graphs: Basics, BFS and DFS and their applications.  Topological order.
+_April 17-21_
 
-Once you learn about graphs, you start to see their applications  everywhere. This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. 
+Once you learn about graphs, you start to see their applications  everywhere. This week we start with basic terminology and the traversals, breadth-first and depth-first. These simple algorithms are the stepping stone to many other problems. We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  
+
+__Objectives:__ 
+* Understand  the concept of topological order and the two algorithms for computing a topological order 
+* Use topological order to compute shortest paths on DAGs
 
 __Objectives:__ 
 * Compare and contrast the adjacency list and adjacency matrix representation of a graph 
@@ -248,61 +246,44 @@ __Resources:__
  
  
  
-### Week 12 :  Application of BFS and DFS. Topological order. Shortest paths on DAGs.  
-_Nov 14-18_
+### Week 12, 13:   Shortest paths (DAGs, Dijkstra and Bellman-Ford)  and MST
+_April 24-28, May 1-5
 
-We introduce the problem of a computing topological order on a directed acyclic graph (DAG).  Then we look at how  topological order can be used to solve various other problems on DAGs, including a simple algorithm for  computing shortest paths on a DAG. 
+We discuss two fundamental problems on grapphs: shortest paths and the Minimum Spanning Tree (MST). We see some of the nicest algorithms in computer science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design. We'll see that Bellman-Ford's algorithm uses dynamic programming and Dijkstra's  is a greedy algorithm, making these nice applications of the techniques we studied earlier in the semester. 
 
-__Objectives:__ 
-* Understand  the concept of topological order and the two algorithms for computing a topological order 
-* Use topological order to compute shortest paths on DAGs
+We discuss a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
 
-__Resources:__
-* __Lecture notes:__ [LN-topsort.pdf](docs/week12-LN-topsort.pdf)
-* __Lab:__   [Lab12](docs/lab12.pdf)  
-* __Assignment:__ Quiz in Canvas, [Assignment 12](docs/hw12.pdf) in Gradescope
-  
- ***
- 
- 
- 
- 
-### Week 13, 14: Shortest paths. 
-_Nov 21-Dec 2_
 
-We discuss shortest paths on graphs and see some of the nicest algorithms in computer science: Dijkstra's algorithm and Bellman-Ford's algorithm. While describing them we try to understand some common principles that guided their design.
-We'll see that Bellman-Ford's algorithm uses dynamic programming and Dijkstra's  is a greedy algorithm, making these nice applications of the techniques we studied earlier in the semester. 
 
 __Objectives:__ 
 * Understand the algorithms for computing shortest paths explained in the notes:  how they work, why they work, and their complexity
-
-__Resources:__
-* __Lecture notes:__ [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf)
-*  __Lab:__   [Lab13](docs/lab13.pdf) 
-* __Assignment:__ Quiz in Canvas, [Assignment 13](docs/hw13.pdf) in Gradescope
-                   
- ***
- 
- 
- 
-### Week 15: Minimum spanning tree. 
-_Dec 5-9_
-
-We  introduce  another fundamental problem on graphs, the Minimum Spanning Tree (MST). We'll see a couple of properties of MSTs which will get us intuition for how to compute an MST efficiently. We'll glance at two well-known algorithms, Prim's and Kruskal's,  which are both greedy algorithms much in the spirit of Dijkstra.  Their correctness follows from a neat result called The Cut Theorem.   
-
-This last week we'll also do a quick review and work on some extra fun problems!
-
-__Objectives:__ 
 * Understand the concept of MST (minimum spaninng tree) in a graph, and be able to answer basic questions about it sproperties
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-* __Lecture notes:__ [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), [LN-review.pdf](docs/week14-LN-review.pdf)
-* __Lab:__   [Lab14](docs/lab14.pdf) , [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
+* __Lecture notes:  [LN-shpaths.pdf](docs/week13-LN-shpaths.pdf), [LN-mst.pdf](docs/week14-LN-mst.pdf), [LN-mst-summary.pdf](docs/week14-LN-mst-summary.pdf), 
+* __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
+* __Assignment:__ Quiz in Canvas, [Assignment 12](docs/hw12.pdf) and  [Assignment 13](docs/hw13.pdf) in Gradescope
+  
+ ***
+ 
+
+ 
+ 
+ 
+### Week 14:  Last lecture
+_May 8_
+
+A quick review and work on some extra fun problems!
+
+
+__Resources:__
+* __Notes:__  [LN-review.pdf](docs/week14-LN-review.pdf)
+* __Lab:__   [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
 
                       
 ***
 
-Final exam: According to Polaris, we have two exam slots: 12/15 8:30-11:30am, and 12/19, 8:30-11:30am.  I have booked large rooms for both days (xact location will be announced on Slack). Choose  the slot that works best for you and just show up.  
+Final exam: [will be posted in Polaris]
 
 ***
