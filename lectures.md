@@ -151,9 +151,9 @@ __Resources:__
    * __Lab:__   [Lab7](docs/lab7.pdf)
   * __Assignment:__  [Assignment 6](docs/hw6.pdf) in Gradescope
          
- ***
+***
  
- ### SPRING BREAK
+### SPRING BREAK
 
 ***
 
@@ -274,11 +274,9 @@ A quick review and work on some extra fun problems!
 
 __Resources:__
 * __Notes:__  [LN-review.pdf](docs/LN-review.pdf)
-
-
-                      
+                    
 ***
 
-Final exam: [will be posted in Polaris]
+### Exam 3: [final exam slot will be posted in Polaris]
 
 ***
