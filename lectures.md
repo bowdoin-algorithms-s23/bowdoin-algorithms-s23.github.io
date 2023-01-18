@@ -274,7 +274,7 @@ A quick review and work on some extra fun problems!
 
 __Resources:__
 * __Notes:__  [LN-review.pdf](docs/LN-review.pdf)
-* __Lab:__   [problem-trappingRain.pdf](docs/problem-trappingrain.pdf)
+
 
                       
 ***
