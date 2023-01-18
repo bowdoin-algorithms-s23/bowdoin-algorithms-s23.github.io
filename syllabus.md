@@ -19,8 +19,6 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 
 **Prerequisites:** csci 2101 (Data Structures)
 
-Practically speaking, we'll spend the first week reviewing problems and concepts from Data Structures, such as linear search and binary search, big-oh,  best cases and worst cases. While diving deeper into analysis we'll encounter _logarithms_ and _exponents_. If you have not seen these in a long time, expect to spend more time the first weeks of classes.  
-
 ### Learning goals 
 After taking this class you will be able to: 
 
