@@ -5,11 +5,7 @@ nav_order: 1
 ---
 
 
-## Initial announcements, logistics, resources
-
-
-
-Hi everyone, Welcome to Algorithms! 
+## Hi everyone, Welcome to Algorithms! 
 
 This Github site hosts all _public_ resources for the class, such as syllabus, lecture notes, policies, etc.  In addition we'll use: 
 
