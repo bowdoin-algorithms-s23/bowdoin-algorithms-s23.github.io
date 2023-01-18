@@ -43,7 +43,7 @@ If you have any significant circumstances that you forsee will impact your abili
 
 
 ### Regrades
-If you believe there is a grading error on an assignment or an exam which was handled via Gradescope, submit a "regrade request" in Gradescope, stating clearly what is the reason you seek a regrade.  Otherwise send me a private message on Slack (stating clearly what is the reason you seek a regrade). 
+You can submit a regrade request within 7 days of receiving your grade. You should do this only if you believe there is a grading error, not simply because you want a higher grade.   If the assignment was handled via Gradescope, you can submit the Regrade request on Gradescope. Otherwise, send me a message on Slack. 
 
 
 ### Communication 
