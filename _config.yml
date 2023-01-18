@@ -16,7 +16,7 @@
 # in the templates via {{ site.myvariable }}.
 
 
-title: "Algorithms, Spring23, Bowdoin College"
+title: "Algorithms Sp23, Bowdoin College"
 remote_theme: pmarsceill/just-the-docs
 
 description: Website for  Algorithms (csci2200), Spring 2023,  Bowdoin College
