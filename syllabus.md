@@ -58,9 +58,9 @@ The class meets three times a week (2 x class plus  weekly lab). Each week, _bef
 
 
 **Time Commitment:**
-This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  The actual time you spend on the class will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours. You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.
+This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.  The actual time you spend on the class will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours.
 
-Some of you will put in more or less time than suggested. That is normal.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, you neeed to work on the challenge problems provided with each lab. 
+Some of you will put in more or less time than suggested. That is normal.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, you need to work on the challenge problems provided with each lab. 
 
 
 **What you can expect from me:**
@@ -75,7 +75,9 @@ I know there are circumstances in our lives that we can't control. If you  have 
 
 **Tips:**
 
-You will  find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (argh, those bugs). When you write code, the process of getting your code to work forces you to correct your logic until it is correct and the program does what it's supposed to do.   When you come up with an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. Thinking through your idea and all the cases that might happen --- it all happens in your head. There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that work partially.  The hard part will be coming up with an algorithm that is  fully correct and efficient. That's the beauty of it. 
+You will  find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   
+
+Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (argh, those bugs). When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that work partially.  The hard part will be coming up with an algorithm that is  fully correct and efficient. That's the beauty of it. 
 
 
 Here are some suggestions for doing well :
@@ -90,6 +92,8 @@ Here are some suggestions for doing well :
 
 * Go to the study groups/office hours and talk to myself and the TAs; Listen to your peers' questions and get your questions answered.
 Solve all problems that are assigned, even those that are optional.
+
+* If you are Math-CS double major, check out the lecture notes or a textbook for proofs. Many correctness justifications rely on induction, so if you've seen that, use this opportunity to come up with those proofs (we'll skipped them in class)
 
 * Don't be harsh on yourself if you are not doing as well as you expected. It takes time to learn, and often we learn (more) from mistakes! 
 
