@@ -29,12 +29,12 @@ The weekly schedule for LA **office hours**  is below.
 | Sundays      |  Brian (2:30-4:30), Searles 224
 | Mondays      |  Danielle (7:15-9:15), Searles 224
 | Tuesdays     |  lex (tbd), John (7-9), Searles 224
-| Wednesdays   |  Kayliee (7-9), Searles 224
+| Wednesdays   |  Kaylie (7-9), Searles 224
 | Thursdays    |  
 | Fridays      |  
 | Saturdays    |  
 
 
-Laura's office hours: Tue and Thu, 3-4:30,  Fridays 1:30-3:30,  Searles 219
+__Laura's office hours:__ Tue and Thu, 3-4:30,  Fridays 1:30-3:30,  Searles 219
 
 Occasional changes to this schedule  will be posted on Slack, so you need to monitor Slack to be up to date. 
