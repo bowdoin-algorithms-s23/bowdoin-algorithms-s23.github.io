@@ -9,32 +9,32 @@ nav_order: 4
 
 
 
-We have a wonderful group of LAs who will support the weekly labs, hold office hours/study groups and help with grading.  
+We have a wonderful group of LAs who will support the weekly labs and hold office hours/study groups.  
  
 - Danielle Simon	(L)
-- Vincent Han	(GG)
 - John Soeder	(L)
 - Alex Racape	(L)
 - Kaylie Harlin	(L)
-- Luke Tingley	(LG)
 - Narmer Bazile (LG)
 - Brian Liu	(LG)
 
 
 
 
-The weekly schedule for **office hours**  is below. 
+The weekly schedule for LA **office hours**  is below. 
 
 
 |              |   Time  (Who & location )  |
 |:-------------|:-------------|:---------------|
-| Sundays      |  
-| Mondays      |  
-| Tuesdays     |  
-| Wednesdays   |  
+| Sundays      |  Brian (2:30-4:30), Searles 224
+| Mondays      |  Danielle (7:15-9:15), Searles 224
+| Tuesdays     |  lex (tbd), John (7-9), Searles 224
+| Wednesdays   |  Kayliee (7-9), Searles 224
 | Thursdays    |  
 | Fridays      |  
 | Saturdays    |  
 
+
+Laura's office hours: Tue and Thu, 3-4:30,  Fridays 1:30-3:30,  Searles 219
 
 Occasional changes to this schedule  will be posted on Slack, so you need to monitor Slack to be up to date. 
