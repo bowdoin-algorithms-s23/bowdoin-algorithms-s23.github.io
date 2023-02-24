@@ -11,12 +11,7 @@ nav_order: 4
 
 We have a wonderful group of LAs who will support the weekly labs and hold office hours/study groups.  
  
-- Danielle Simon	(L)
-- John Soeder	(L)
-- Alex Racape	(L)
-- Kaylie Harlin	(L)
-- Narmer Bazile (LG)
-- Brian Liu	(LG)
+- Danielle Simon	(L), John Soeder	(L), Alex Racape	(L), Kaylie Harlin	(L), Narmer Bazile (LG), Brian Liu	(LG)
 
 
 
