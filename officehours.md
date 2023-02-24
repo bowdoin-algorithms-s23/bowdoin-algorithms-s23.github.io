@@ -32,6 +32,6 @@ The weekly schedule for LA **office hours**  is below.
 
 __Laura's office hours:__ Tue and Thu, 3-4:30,  ~Fridays 1:30-3:30,~ Searles 219
 
-Unfortunately I am double-booked most Fridays until 4pm, but you cnaa usulaly find me 4-5pm.  It's saafest to message me to find out when I'll be around.
+Unfortunately I am double-booked most Fridays until 4pm, but you can usually find me 4-5pm (it's safest to message me to find out when I'll be around).
 
 Occasional changes to this schedule  will be posted on Slack, so you need to monitor Slack to be up to date. 
