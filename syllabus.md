@@ -37,9 +37,14 @@ Algorithms are the backbone of computer science. Everywhere computer sciences re
 
   
 
-**Lectures, labs and weekly flow:**
-The class meets three times a week (2 x class plus  weekly lab). Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's lectures.  This will make the meetings more effective.  Roughly speaking, the class meetings are dedicated to understanding fundamental algorithms and techniques,  and the lab is for working on problems.  The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all the problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.    Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
+**Lectures, labs and the weekly flow:**
+The class meets twice a week for lecture, and once a week for lab. Generally speaking, the classes  are dedicated to going over  fundamental algorithms and techniques,  and the labs are for applying and extending the conceps from class and working on new problems.
 
+Preview: Each week, _before coming to class_,  read  the lecture notes for that week. It is expected that you understand the big ideas and results ahead of that week's class.  This will make the classes more effective and interactive and will allow time to sprinkle problems.    
+
+Labs: The lab problems are meant to be solved in class, during the lab. Myself and the LAs will be around to work with you, facilitate discussions and answer  questions. The labs are there to help you reinforce and extend the concepts while you collaborate freely with your peers and talk to us. Labs are __not__ graded, however it is important that you strive to understand all the problems as they are designed  to extend the lectures.  It is your responsibility to complete the lab problems and get your questions answered.    Overall, labs should be __fun__  and you'll find that most of your learning occurs while you work on the lab with your peers! 
+
+ Classes and the labs, together, prepare you for the weekly assignments, which consist of new problems. 
 
        
 
@@ -60,12 +65,12 @@ The class meets three times a week (2 x class plus  weekly lab). Each week, _bef
 **Time Commitment:**
 This is a core CS class and will demand a significant time commitment. It is critical that you budget your time accordingly.  You should expect to commit 10 hours a week to meet the expectations of the course, and  more to excel.  The actual time you spend on the class will vary from week to week as some topics---esp towards the middle of the semester---will be harder and may take more hours.
 
-Some of you will put in more or less time than suggested. That is normal.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, you need to work on the challenge problems provided with each lab. 
+Some of you will put in more or less time than suggested. That is normal.  If you find that you struggle with discrete math (e.g. logarithms, exponents, etc) you will need to allocate more time to grasp those concepts --- hang in there, you just need more practice. If you finish faster, use the time to work on the challenge problems provided with each lab. 
 
 
 **What you can expect from me:**
 
-My goal is to teach a class that's similar to algorithms classes at peer institutions. The  syllabus is packed and you will find the pace and the problems challenging. Many of the problems in labs and assignments come from algorithms classes at other universities (such as Stanford, MIT, Berkeley, etc).  Speaking of that, I am a big fan of and grateful for open resources, and this is the reason I keep this website on _github_ rather than behind Canvas.   Some of you will go on to software engineering careers where  a strong algorithmic background is a must.  Many of you will go through technical interviews which draw heavily from the content of this class. It is important to pack  many topics  in the syllabus and expose you to challenging new problems.  Ultimately the goal of the class is to give you the tools so that  you can solve  new problems on your own.   A strong algorithmic backgound will elevate your analytical and abstraction skills and will be a big advantage to your  career path, whatever it might be. 
+My goal is to teach a class that's similar to algorithms classes at peer institutions. The  syllabus is packed and you will find the pace and the problems ocasionally challenging. Many of the problems in labs and assignments come from algorithms classes at other universities (such as Stanford, MIT, Berkeley, etc).  Speaking of that, I am a big fan of and grateful for open resources, and this is the reason I keep this website on _github_ rather than behind Canvas.   Some of you will go on to software engineering careers where  a strong algorithmic background is a must.  Many of you will go through technical interviews which draw heavily from the content of this class. It is important to pack  many topics  in the syllabus and expose you to challenging new problems.  Ultimately the goal of the class is to give you the tools so that  you can solve  new problems on your own.   A strong algorithmic backgound will elevate your analytical and abstraction skills and will be a big advantage to your  career path, whatever it might be. 
 
 My teaching style is to create a friendly, open atmosphere where everyone feels comfortable and motivated to learn. There are no stupid questions. Any question is a sign that you want to engage. Based on my experience, the most effective learning happens when YOU (the class) work well together.  Open collaboration in the lab will be highly encouraged. Assignments are pair-optional, although everyone is highly encouraged to find a partner.  To support everyone's learning at their own pace  I have created detailed lecture notes and an ample set of supporting study questions, practice problems and quizzes, many with solutions. Please help me make this class great by staying engaged and by giving me feedback (even if I don't ask for it)! Feedback is always welcome. 
 
@@ -75,14 +80,18 @@ I know there are circumstances in our lives that we can't control. If you  have 
 
 **Tips:**
 
-You will  find this class to be difficult. What makes it hard is that the material is theoretical and spans many levels of abstraction, and that coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   
+You will  find this class to be difficult. What makes it difficult is not the algorithms we discuss in class (though there will be a few that are quite brilliant). What makes it difficult is the creative part, the problem solving, the coming up with new algorithms for new problems. The material is theoretical and spans many levels of abstraction, and coming up with algorithms is both an art and a science: there is no systematic way to have an idea, and problems that seem very similar, may have very different solutions.   Every problem is "new".  
 
-Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (argh, those bugs). When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that work partially.  The hard part will be coming up with an algorithm that is  fully correct and efficient. That's the beauty of it. 
+2101 vs 2200: Working on an algorithms assignment will seem easier than working on a programming assignment in Data Structures (argh, those bugs). 
+
+* 2101: When you write code, the process of getting your code to work forces you to correct your logic until the program does what it's supposed to do.   
+
+* 2200: When you write pseudocode for an algorithm, you have to rely on yourself to think through all its details carefully; you need to figure out if it has bugs without implementing it. __Thinking through your idea and all the cases that might happen --- it all happens in your head.__ There is no computer to tell you that you have bugs, that your logic has holes,  _YOU_ need to do that. In this class it will be easy to come up with algorithms that almost work .  The hard part will be coming up with an algorithm that are actually correct (and efficient). That's the beauty of it! 
 
 
 Here are some suggestions for doing well :
 
-* Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
+* Budget your time  and give yourself plenty of time to read the materials and work on the assignments each week. Take the labs seriously. Plan on at least 10 hours a week, and make a schedule which you follow every week. 
 
 * Be pro-active about things that are not clear. There's a lot of helpful free resources out there. Just search on the Internet (really, that's ~~allowed~~ encouraged).
 
