@@ -232,8 +232,8 @@ __Objectives:__
 * Understand  the concept of topological order and the two algorithms for computing a topological order 
 
 __Resources:__
-* __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf)
-* __Lab:__   [Lab11](docs/lab11.pdf) 
+*  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf]
+*  __Lab:__   [Lab11](docs/lab11.pdf) 
 *  Exam 2 in class
 * __Assignment:__  [Assignment 10](docs/hw10.pdf) in Gradescope
 
@@ -256,8 +256,8 @@ __Objectives:__
 * Know the general idea of Kruskal's and Prim's algorithms, and the Cut Theorem which captures their correctness
 
 __Resources:__
-* __Lecture notes:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
-* __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
+*  __Lecture notes__:  [LN-shpaths.pdf](docs/LN-shpaths.pdf), [LN-mst.pdf](docs/LN-mst.pdf), [LN-mst-summary.pdf](docs/LN-mst-summary.pdf), 
+*  __Lab:__   [Lab12](docs/lab12.pdf)  , [Lab13](docs/lab13.pdf) , [Lab14](docs/lab14.pdf) 
 * __Assignment:__ Quiz 7, 8 in Canvas, [Assignment 11](docs/hw11.pdf) and  [Assignment 12](docs/hw12.pdf) in Gradescope
   
  ***
