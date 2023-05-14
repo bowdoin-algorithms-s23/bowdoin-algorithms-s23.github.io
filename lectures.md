@@ -232,7 +232,7 @@ __Objectives:__
 * Understand  the concept of topological order and the two algorithms for computing a topological order 
 
 __Resources:__
-*  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf]
+*  __Lecture notes:__ [LN-graphBasics.pdf](docs/LN-basics.pdf), [LN-bfsdfs.pdf](docs/LN-bfsdfs.pdf), [LN-topsort.pdf](docs/LN-topsort.pdf)
 *  __Lab:__   [Lab11](docs/lab11.pdf) 
 *  Exam 2 in class
 * __Assignment:__  [Assignment 10](docs/hw10.pdf) in Gradescope
